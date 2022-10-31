@@ -1,0 +1,29 @@
+{
+    "students":
+    [
+        {
+            "name": "Akshat",
+            "city": "Delhi",
+            "addr": "1023 Gotham St.",
+            "pin": "1234"
+        },
+        {
+            "name": "John",
+            "city": "Madison",
+            "addr": "1234 University St.",
+            "pin": "3456"
+        },
+        {
+            "name": "Batman",
+            "city": "Gotham",
+            "addr": "Batcave",
+            "pin": "9695"
+        },
+        {
+            "name": "Iron Man",
+            "city": "Miami",
+            "addr": "Stark Tower",
+            "pin": "2345"
+        }
+    ]
+}

@@ -23,3 +23,12 @@ deactivate
 ```shell
 python run.py
 ```
+
+# Seeing all Data
+```
+flask shell
+from models.models import Student
+Student.query.all()
+Student.query.filter_by(name='Akshat').all()
+Student.query.get(3)
+```
