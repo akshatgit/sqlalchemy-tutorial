@@ -26,7 +26,7 @@ python server.py
 
 ## Populate DB
 ```shell
-python populate_db.py
+python populate_data.py
 ```
 
 # Seeing all Data
