@@ -21,7 +21,12 @@ deactivate
 ```
 ## Run Server
 ```shell
-python run.py
+python server.py
+```
+
+## Populate DB
+```shell
+python populate_db.py
 ```
 
 # Seeing all Data
